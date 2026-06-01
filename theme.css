@@ -141,3 +141,30 @@ img {
 	display: block;
 	margin: auto;
 }
+
+.theme-dark table {
+	background-color: #161616;
+	border-color: #393939;
+}
+
+.theme-dark thead {
+	background-color: #282828;
+}
+
+.theme-dark thead th,
+.theme-dark tfoot th {
+	color: #f2f4f8;
+}
+
+.theme-dark td {
+	color: #cdd9e5;
+	border-color: #393939;
+}
+
+.theme-dark tr:nth-child(even) {
+	background-color: #1e1e1e;
+}
+
+.theme-dark hr {
+	border-color: #393939;
+}
