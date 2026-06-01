@@ -1,3 +1,12 @@
+This fork applies my own custom dark mode inspired by carbonfox as the original theme had a broken darkmode
+
+<img width="738" height="564" alt="image" src="https://github.com/user-attachments/assets/98772027-91cc-4e6a-93f2-245c26f5d93c" />
+
+
+---
+
+Original README:
+
 An obsidian theme using LaTeX fonts to be used in academic (especially math) work.
 
 ![Screenshot_1.png](screenshots%2FScreenshot_1.png)
